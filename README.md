@@ -18,4 +18,4 @@
 - Make changes
 
 # Questions
-- Please contact acsmith11@dons.usfca.edu
+- Please contact acsmith11@dons.usfca.edu or msmarkoff@dons.usfca.edu
